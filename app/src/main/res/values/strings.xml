@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SharedPrefereneces</string>
+    <string name="nameErrorMessage">Username is not entered</string>
+    <string name="uiBtnNavigate">GO TO NEXT ACTIVITY</string>
+    <string name="uiEtName">Name</string>
+    <string name="uiEtPassword">Password</string>
+    <string name="uiBtnSubmit">SUBMIT</string>
+</resources>
